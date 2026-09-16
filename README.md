@@ -36,3 +36,9 @@
 **AI / ML:** RAG · AI Agents · LLM Applications · scikit-learn · PyTorch · NLP · Explainable AI  
 **Engineering:** CI/CD · Automated Testing · Docker · Linux · GitHub Actions · GitLab CI · FastAPI  
 **MLOps / Cloud:** MLflow · AWS · Reproducible Environments · Deployment Pipelines
+
+<div align = "center">
+
+![snake gif](https://github.com/EdoardoCortolezzis/EdoardoCortolezzis/blob/output/github-snake-dark.svg)
+
+</div>
